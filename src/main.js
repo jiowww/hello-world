@@ -6,6 +6,10 @@ import 'view-design/dist/styles/iview.css'
 import store from './store/main'
 Vue.config.productionTip = false
 import axios from 'axios'
+
+
+
+
 // import jwt from 'jwt-decode'
 // axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded'; 
 // import VueAxios from 'vue-axios'

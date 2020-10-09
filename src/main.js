@@ -4,6 +4,11 @@ import View from 'view-design'
 import router from './router/index.js'
 import 'view-design/dist/styles/iview.css'
 import store from './store/main'
+
+
+
+
+
 Vue.config.productionTip = false
 
 import axios from 'axios'
